@@ -6,6 +6,7 @@ def string_checking(some_text):
         print('There is a list')
     else:
         print('Wrong')
+s=1
 a = '1289'
 b = 19
 c= []
